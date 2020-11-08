@@ -4,6 +4,6 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=baliyanvinay&layout=compact)
 
 
-- 🔭 I’m currently working on a Birthday Manager Django App
-- 🌱 I’m currently learning Django Framework and JS.
+- 🔭 I’m currently working on a GoodRead Web Project just to understand core Django concepts. 
+- 🌱 I’m currently learning Django Framework. Concepts like Class Based Views, Authentication System & Advanced Python topics. 
 - 👯 I’m looking to collaborate on small Django Projects.
