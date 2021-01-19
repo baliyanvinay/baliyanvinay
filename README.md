@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on a Mini Web Projects just to understand core Django concepts and DRF Concepts. 
-- 🌱 I’m currently learning Django Framework. Concepts like Class Based Views, Authentication System & Advanced Python topics. 
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on small Django Projects.
 
 
