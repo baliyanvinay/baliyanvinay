@@ -4,7 +4,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=baliyanvinay&layout=compact&theme=gotham)
 
 
-- 🔭 I’m currently working on a Mini Web Projects just to understand core Django concepts and DRF Concepts. 
+- 🔭 I’m currently working on Python Basics, Advanced & Django ORM. 
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on small Django Projects.
 
