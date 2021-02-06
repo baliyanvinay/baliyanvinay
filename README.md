@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Python Basics, Advanced & Django ORM. 
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker, Micorservice architecture & network automation
 - 👯 I’m looking to collaborate on small Django Projects.
 
 ## Tools and Technologies
