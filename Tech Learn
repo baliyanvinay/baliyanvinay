@@ -1,0 +1,12 @@
+File contains technologies or tools that are used within organizations to maintain a Django Based web app. 
+Little detail shall be added on each one of these after research. 
+
+1. Elastic Search
+2. Apache
+3. Kafka
+4. Gunicorn
+5. Nagios
+6. Cron Jobs
+7. Grafana
+8. Redux
+9. Ngrx
