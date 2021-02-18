@@ -1,11 +1,13 @@
 File contains technologies or tools that are used within organizations to maintain a Django Based web app. 
 Little detail shall be added on each one of these after research. 
 
-1. Elastic Search
-2. Apache
+1. ElasticSearch: ElasticSearch (ES) is an open-source, broadly-distributable, readily-scalable, enterprise-grade search engine. 
+   Why needed? Simple search, fuzzy search(getting misspelled words), logging, analytics, autocompletion and instant search.
+ 
+2. Apache: 
 3. Kafka
 4. Gunicorn
-5. Nagios: Continuous Monitoring)
+5. Nagios: Continuous Monitoring
 6. Cron Jobs
 7. Grafana
 8. Redux
