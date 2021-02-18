@@ -5,8 +5,10 @@ Little detail shall be added on each one of these after research.
 2. Apache
 3. Kafka
 4. Gunicorn
-5. Nagios
+5. Nagios: Continuous Monitoring)
 6. Cron Jobs
 7. Grafana
 8. Redux
 9. Ngrx
+10. Jenkins: Continuous Integration
+11. Ansible: Continuous Deployment
