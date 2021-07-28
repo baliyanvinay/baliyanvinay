@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on Python Basics, Advanced & Django ORM. 
-- 🌱 I’m currently learning Docker, Micorservice architecture & network automation
-- 👯 I’m looking to collaborate on small Django Projects.
+- 🌱 I’m currently learning Flask and MongoDB
+- 👯 I’m looking to collaborate on small Django/Flask Projects.
 
 ## Tools and Technologies
 
@@ -19,3 +19,4 @@
 <a href = "https://ubuntu.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></a>
 <a href = "https://www.docker.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a>
 <a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
+  <a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a>
