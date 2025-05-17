@@ -1,17 +1,13 @@
-# Hi there! :wave: [![Hits](https://www.sproul.dev/api/gh-viewer)](https://www.sproul.dev/api/gh-viewer) [![LinkedIn Connect](https://img.shields.io/badge/IN-Connect-blue)](https://www.linkedin.com/in/baliyanvinay89/)  [![Outlook](https://img.shields.io/badge/Outlook-Mail%20me-blue)](mailto:baliyanvinay17@outlook.com)  [![HackerRank](https://img.shields.io/badge/HR-HackerRank-blue)](https://www.hackerrank.com/baliyanvinay17)
-
+# Hi there! :wave: [![LinkedIn Connect](https://img.shields.io/badge/IN-Connect-blue)](https://www.linkedin.com/in/baliyanvinay89/) 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=baliyanvinay&theme=gotham&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=baliyanvinay&layout=compact&theme=gotham)
 
-
-- 🔭 I’m currently working on Python Basics, Advanced & Django ORM. 
-- 🌱 I’m currently learning Flask and MongoDB
-- 👯 I’m looking to collaborate on small Django/Flask Projects.
+- 🔭 I’m currently working on Agentic AI, RAG related AI Applications. 
 
 ## Tools and Technologies
 
 <a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-<a href = "https://www.djangoproject.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></a>
+<a href = "https://fastapi.tiangolo.com/"><img height="40" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
 <a href = "https://developer.mozilla.org/en-US/docs/Web/javascript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 <a href = "https://www.postgresql.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 <a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
